@@ -72,5 +72,7 @@ private void SfDataGrid_SelectionChanging(object sender, GridSelectionChangingEv
 
 Take a moment to peruse the [WPF DataGrid – Grouping](https://help.syncfusion.com/wpf/datagrid/grouping) documentation, where you can find about grouping with code examples.
 
+KB article - [How to expand the group only when clicking on the expander cell arrow in CaptionSummaryRow in WPF DataGrid (SfDataGrid)?](https://www.syncfusion.com/kb/12572/how-to-expand-the-group-only-when-clicking-on-the-expander-cell-arrow-in-captionsummaryrow) 
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
